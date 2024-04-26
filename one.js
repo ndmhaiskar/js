@@ -1,3 +1,6 @@
+//https://www.freecodecamp.org/news/learn-javascript-for-beginners/
+
+/*
 flips = 0
 isHead = false
 
@@ -6,7 +9,7 @@ while(!isHead){
     isHead = Math.random() < 0.5
 }
 console.log(`Coin is flipped ${flips} times before Head comes`)
-
+*/
 
 /*
 let heads = 0
