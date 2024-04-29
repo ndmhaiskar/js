@@ -1,0 +1,11 @@
+.wrapper {
+    width:500px;
+    display:flex;
+    flex-wrap:wrap;
+    align-items:flex-end;
+    min-height:100px;
+    align-self: center;
+}
+.wrapper > div {
+    flex: 1 1 100px;
+}
