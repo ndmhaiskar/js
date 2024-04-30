@@ -1,0 +1,29 @@
+*{
+    background-color: lightcyan;
+}
+
+html {
+    background-image:url("https://cdn.pixabay.com/photo/2024/04/18/20/41/ai-generated-8705017_960_720.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+p {
+    width:500px;
+    height:100px;
+    padding:20px;
+    border: 1px solid black;
+    border-radius: 5%;
+    margin-left:50px;
+    text-align: justify;
+}
+
+.start {
+    color: red;
+    background-color: lightgreen;
+    border:2px solid red;
+    margin:20px;
+    padding:10px;
+    font-style:normal;
+    font-size:medium;
+}
